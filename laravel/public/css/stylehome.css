@@ -11,13 +11,16 @@
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: red;
-
+    display: flex;
+    justify-content: center;
 }
 
 .navbar div a{
     background-color: green;
     text-decoration: none;
     padding: 11px;
+    padding-left: 5rem;
+    padding-right: 5rem;
     color: yellow;
 }
 .center{
